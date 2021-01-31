@@ -1,5 +1,5 @@
 {
-    "name": "abbotton/setting",
+    "name": "laikunqi/setting",
     "description": "Dcat Admin 系统配置扩展",
     "type": "library",
     "keywords": [
@@ -7,17 +7,17 @@
         "extension",
         "seting"
     ],
-    "homepage": "https://github.com/Abbotton/dcat-admin-setting-extension",
+    "homepage": "https://github.com/qq781548819/dcat-admin-setting-extension",
     "license": "MIT",
     "authors": [
         {
-            "name": "Abbotton",
-            "email": "uctoo@foxmail.com"
+            "name": "laikunqi",
+            "email": "kunqi.lai@aliyun.com"
         }
     ],
     "require": {
         "php": ">=7.1.0",
-        "dcat/laravel-admin": "~1.6"
+        "dcat/laravel-admin": "^2.0.16"
     },
     "autoload": {
         "psr-4": {
